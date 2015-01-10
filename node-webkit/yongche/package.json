@@ -3,12 +3,12 @@
 	"main": "http://3g.yongche.com/touch/",
 	"description": "易到用车",
     "version": "0.1.0",
-    "keywords": ["node-webkit", "yongche"]
+    "keywords": ["node-webkit", "yongche"],
 	"window": {
 		"title": "易到用车",
 		"icon": "icon.png",
 		"toolbar": false,
-		"frame": false,
+		"frame": true,
 		"width": 375,
 		"height": 667,
 		"position": "mouse",
