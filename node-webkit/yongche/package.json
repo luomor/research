@@ -1,9 +1,23 @@
 {
 	"name": "yongche",
 	"main": "http://3g.yongche.com/touch/",
+	"description": "易到用车",
+    "version": "0.1.0",
+    "keywords": ["node-webkit", "yongche"]
 	"window": {
+		"title": "易到用车",
+		"icon": "icon.png",
 		"toolbar": false,
+		"frame": false,
 		"width": 375,
-		"height": 667
-	}
+		"height": 667,
+		"position": "mouse",
+		"min_width": 375,
+        "min_height": 667,
+        "max_width": 375,
+        "max_height": 667
+	},
+	"webkit": {
+       "plugin": true
+    }
 }
