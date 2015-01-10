@@ -1,0 +1,9 @@
+{
+	"name": "yongche",
+	"main": "http://3g.yongche.com/touch/",
+	"window": {
+		"toolbar": false,
+		"width": 375,
+		"height": 667
+	}
+}
